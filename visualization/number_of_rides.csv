@@ -1,0 +1,15 @@
+"all_trips_v2$member_casual","all_trips_v2$day_of_week","all_trips_v2$ride_length"
+"casual","Sunday",181293
+"member","Sunday",267965
+"casual","Monday",103296
+"member","Monday",472196
+"casual","Tuesday",90510
+"member","Tuesday",508445
+"casual","Wednesday",92457
+"member","Wednesday",500329
+"casual","Thursday",102679
+"member","Thursday",484177
+"casual","Friday",122404
+"member","Friday",452790
+"casual","Saturday",209543
+"member","Saturday",287958
